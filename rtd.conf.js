@@ -54,16 +54,16 @@ module.exports = {
         darwin: {
             chromeDriverName: 'chromedriver',
             chromeDriverOs: 'mac32',
-            chromeDriverVersion: '2.9',
-            chromeDriverSha: '16553f51a165dd202e842b99675ca6e5e1eb2a69'
+            chromeDriverVersion: '2.12',
+            chromeDriverSha: '8240b784feeffd02cfc303ed50886d402dd654a6'
         },
         linux: {
             chromeDriverName: 'chromedriver',
             chromeDriverOs: 'linux64',
-            chromeDriverVersion: '2.9',
-            chromeDriverSha: '6d8498437795482bb82739e13dfc13e4bcfdd40b'
+            chromeDriverVersion: '2.12',
+            chromeDriverSha: 'f366e35011637d6d613bfbb6abcfdffcd2f6c517'
         },
-        seleniumServeVersion: '2.39.0',
-        seleniumServeSha: 'f2391600481dd285002d04b66916fc4286ff70ce'
+        seleniumServeVersion: '2.44.0',
+        seleniumServeSha: 'deb2a8d4f6b5da90fd38d1915459ced2e53eb201'
     }
 };
